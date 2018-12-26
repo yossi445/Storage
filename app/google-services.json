@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "466256624461",
+    "firebase_url": "https://storage-ec585.firebaseio.com",
+    "project_id": "storage-ec585",
+    "storage_bucket": "storage-ec585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466256624461:android:9b8b0457437a1caa",
+        "android_client_info": {
+          "package_name": "com.example.yossi.storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466256624461-agjbssro0h4oo9fn735jsaida57as337.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yossi.storage",
+            "certificate_hash": "6b37807839407c28287666ae73ac9165c046ed57"
+          }
+        },
+        {
+          "client_id": "466256624461-cpuna1ljt9nrgs9dr2sg4cc683660v08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu8QctQ4g5-SPXzDewnLrucpwc5UjKyZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466256624461-cpuna1ljt9nrgs9dr2sg4cc683660v08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
